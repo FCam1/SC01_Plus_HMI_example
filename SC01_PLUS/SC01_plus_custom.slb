@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "group": "Espressif",
     "title": "SC01_PLUS",
     "keywords": "Espressif, ESP-BOX, ESP32S3",
@@ -7,8 +7,8 @@
     "height": "320",
     "width_min": "320",
     "height_min": "240",
-    "width_max": "320",
-    "height_max": "240",
+    "width_max": "480",
+    "height_max": "320",
     "offset_x": 0,
     "offset_y": 0,
     "rotation": 0,
